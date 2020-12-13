@@ -1,6 +1,6 @@
 # Investigation of Real Estate Pricing in Hot Coffee, Mississippi. 
 
-<img src="https://raw.githubusercontent.com/barguzin/pstat_final/master/img/image-20201213121719287.png" alt="image-20201213121719287" style="zoom:50%;" />
+
 
 *Prepared by Evgeny Noi as part of the final project in PSTAT 220A*
 
@@ -41,6 +41,21 @@ lorem
 ## Discussion and Limitations
 
 lorem 
+
+
+
+## Appendix 
+
+<figure> 
+    <center>
+    <img src="https://raw.githubusercontent.com/barguzin/pstat_final/master/img/image-20201213121719287.png" alt="image-20201213121719287" style="zoom:50%;" /> 
+    <figcaption> Fig.1 My figure 1 </figcaption> 
+    </center>
+</figure>
+
+
+
+</figure> 
 
 
 
